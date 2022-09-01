@@ -1,5 +1,7 @@
 # 100-Intership-opportunities-MLSC-BSIOTR-Updated
-Here is 100+ Internship Opportunities in One single Document
+
+Here is 100+ Internship Opportunities in One single Document. This Repository will be updated every month by MLSC BSIOTR members.
+Feel free to contribute in repository, we would to see your contribution here - Devendra Tayade 
 
 ## 1.RIVIGO 
 ### Intern
